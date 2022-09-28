@@ -36,10 +36,10 @@
    "src": "misc/icon16.png"
   }
  ],
- "background_color": "#000000",
  "name": "DonDoh Brasil - Fusion Cuisine",
  "description": "Alameda Madeira, 162 - Edifício Quebec, loja 02 - Alphaville, Barueri - SP",
  "display": "fullscreen",
+ "start_url": "index.htm",
  "theme_color": "#000000",
- "start_url": "index.htm"
+ "background_color": "#000000"
 }
